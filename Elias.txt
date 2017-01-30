@@ -10,3 +10,6 @@ Date        Time   Message
         25  01:00  Step counting ray marching shader.
         26  02:00  Läsa igenom info pa pingpong, fixa i ordning tidslogg.
             05:00  Planning report, ray marching shaders with all group members.
+        27  06:00  More planning report, gradient stepping heuristic, meeting.
+        28  02:00  True signed distance function intersection.
+        30  03:00  
