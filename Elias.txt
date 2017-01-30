@@ -1,5 +1,6 @@
 Date        Time   Message
-2017-01-17  01:00  Lecture + first meeting with group
+2017-01-17  02:00  Lecture
+            01:00  First meeting with group
         18  01:00  Signed distance functions and multivariate calculus.
             03:00  Basic raymarcher with phong lighting implemented in 
                    shadertoy.
