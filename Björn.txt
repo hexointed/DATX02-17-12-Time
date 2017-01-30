@@ -1,0 +1,12 @@
+Date        Time   Message
+2017-01-17  03:00  Lecture + first meeting with group
+        18  01:00  Signed distance functions and multivaraible calculus.
+        19  03:00  Read earlier planning and finished reports, tested methods
+                   for creating signed distance functions from any curve using 
+                   gradient displacement.
+        23  05:00  Lecture about source-criticism, writing on the report.
+        24  02:00  Lecture on writing a planning report.
+        26  06:00  Planning report, ray marching shaders with all group members.
+        27  01:30  Finished the edge.edx course.
+            05:00  More planning report, gradient stepping heuristic, meeting.
+        30  03:00  
