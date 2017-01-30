@@ -1,26 +1,21 @@
 Date        Time   Message
 -------Week 1
-2017-01-17  01:00  Lecture
+2017-01-17  01:00  Lecture.
 	
-	17  01:30  First meeting with the group
+	17  01:30  First meeting with the group.
 
         18  01:00  Signed distance functions and multivariate calculus.
-            03:30  Basic raymarcher with phong lighting implemented in 
-                   shadertoy.
+            05:30  Basic raymarcher and more shadertoy at home.
 
-	18  01:00  Some more experiment with shadertoy at home	
+        19  02:00  Read earlier planning and finished reports.
 
-        19  04:00  Read earlier planning and finished reports, tested methods
-                   for creating signed distance functions from any curve using 
-                   gradient displacement.
 -------Week 2
         24  02:00  Lecture about project planning.
 
-        25  01:00  Step counting ray marching shader.
+        25  02:00  More learning with shadertoy
 
         26  02:00  Read through info on pingpong, fixa i ordning tidslogg.
             05:00  Planning report, ray marching shaders with all group members.
-        27  06:00  More planning report, gradient stepping heuristic, meeting.
-        28  02:00  True signed distance function intersection.
+        29  01:00  Read more about raymarching.
 -------Week 3        
 	30  03:00  Meeting with the group.  
