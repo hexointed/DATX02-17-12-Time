@@ -11,3 +11,4 @@ Date        Time   Message
         27  02:00   Reading about raymarching
 
         31  02:00   Reading about raymarching, specifically what kind of basic shapes are easily created and rendered.
+        	02:00	doing the plagarism and sources assignment
