@@ -13,4 +13,6 @@ Date        Time   Message
             05:00  Planning report, ray marching shaders with all group members.
         27  06:00  More planning report, gradient stepping heuristic, meeting.
         28  02:00  True signed distance function intersection.
-        30  03:00  
+        30  03:00  Group meeting, shadertoy.
+     02-03  03:00  Planning report, time plan.
+            01:00  Meeting
