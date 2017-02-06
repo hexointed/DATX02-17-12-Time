@@ -1,4 +1,5 @@
 Date        Time   Message
+--------------------------------------------------------------------------------
 2017-01-17  03:00  Lecture + first meeting with group
         18  01:00  Signed distance functions and multivaraible calculus.
         19  03:00  Read earlier planning and finished reports, tested methods
@@ -9,4 +10,9 @@ Date        Time   Message
         26  06:00  Planning report, ray marching shaders with all group members.
         27  01:30  Finished the edge.edx course.
             05:00  More planning report, gradient stepping heuristic, meeting.
-        30  03:00  
+--------------------------------------------------------------------------------
+2017-02-30  03:00  Trying to do raycasting with shadertoy.
+        01  01:00  More raycasting.
+        02  01:00  Added raymarching to the shader.
+        03  02:00  Worked some more on the shader and had a meeting.
+--------------------------------------------------------------------------------
