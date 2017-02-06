@@ -18,4 +18,9 @@ Date        Time   Message
             05:00  Planning report, ray marching shaders with all group members.
         29  01:00  Read more about raymarching.
 -------Week 3        
-	30  03:00  Meeting with the group.  
+	30  03:00  Meeting with the group.
+	
+2017-02-01  03:30  Basic raymarcher with phong lighting implemented
+
+	03  01:00  Meeting with supervisor
+  
