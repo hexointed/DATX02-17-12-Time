@@ -17,10 +17,19 @@ Date        Time   Message
         26  02:00  Read through info on pingpong, fixa i ordning tidslogg.
             05:00  Planning report, ray marching shaders with all group members.
         29  01:00  Read more about raymarching.
+
 -------Week 3        
 	30  03:00  Meeting with the group.
 	
 2017-02-01  03:30  Basic raymarcher with phong lighting implemented
 
 	03  01:00  Meeting with supervisor
-  
+
+-------Week 4
+	
+	07  03:00  Planning report	
+	
+	08  03:15  Shadertoy more phong lightning
+
+	09  03:15  Shadertoy adjusting phong lightning for model +
+		   Adjusting planning report.
