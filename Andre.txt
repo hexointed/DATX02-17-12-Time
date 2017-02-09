@@ -15,7 +15,12 @@ Date        Time   Message
         
 ----Week 3
         30  02:00  More Shadertoy.
-        31  02:00 Lecture.
+        31  02:00  Lecture.
+	02  04:00  Shadertoy.
+	03  04:00  Shadertoy.
+	    01:00  Meating with miquel.
+	05  02:00  Reading info about planningreport and reading examples of other groups planning reports.
+	
 
 
         
