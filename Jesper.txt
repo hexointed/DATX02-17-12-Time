@@ -14,3 +14,6 @@ Date        Time   Message
         31  02:00  Reading about raymarching, specifically what kind of basic 
                    shapes are easily created and rendered.
         	02:00  doing the plagarism and sources assignment
+
+----Week 4 
+		7	02:00  Planning report
