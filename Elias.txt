@@ -21,4 +21,8 @@ Date        Time   Message
         30  03:00  Group meeting, shadertoy.
      02-03  03:00  Planning report, time plan.
             01:00  Meeting
-        08  01:00  
+
+----Week 4
+        08  02:00  Planning report
+            01:00  Helping Chi with phong lighting.
+        09  01:00  Time reports: updating mine, ensuring consistent format.
