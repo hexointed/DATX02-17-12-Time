@@ -1,14 +1,16 @@
 Date        Time   Message
+----Week 1
 2017-01-17  02:00  Lecture
             01:00  First meeting with group
-
         21  04:00  Read up on distance field function generation methods.
 
+----Week 2
         24  02:00  Lecture about project planning.
             05:00  Planning report discussion, ray marching shaders with all 
                    group members.
+        27  02:00  Reading about raymarching
 
-        27  02:00   Reading about raymarching
-
-        31  02:00   Reading about raymarching, specifically what kind of basic shapes are easily created and rendered.
-        	02:00	doing the plagarism and sources assignment
+----Week 3
+        31  02:00  Reading about raymarching, specifically what kind of basic 
+                   shapes are easily created and rendered.
+        	02:00  doing the plagarism and sources assignment
