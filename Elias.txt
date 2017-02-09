@@ -1,4 +1,5 @@
 Date        Time   Message
+----Week 1
 2017-01-17  02:00  Lecture
             01:00  First meeting with group
         18  01:00  Signed distance functions and multivariate calculus.
@@ -7,12 +8,21 @@ Date        Time   Message
         19  04:00  Read earlier planning and finished reports, tested methods
                    for creating signed distance functions from any curve using 
                    gradient displacement.
+
+----Week 2
         24  02:00  Lecture about project planning.
         25  01:00  Step counting ray marching shader.
         26  02:00  Läsa igenom info pa pingpong, fixa i ordning tidslogg.
             05:00  Planning report, ray marching shaders with all group members.
         27  06:00  More planning report, gradient stepping heuristic, meeting.
         28  02:00  True signed distance function intersection.
+
+----Week 3
         30  03:00  Group meeting, shadertoy.
      02-03  03:00  Planning report, time plan.
             01:00  Meeting
+
+----Week 4
+        08  02:00  Planning report
+            01:00  Helping Chi with phong lighting.
+        09  01:00  Time reports: updating mine, ensuring consistent format.
