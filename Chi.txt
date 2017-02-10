@@ -24,6 +24,5 @@ Date        Time   Message
 	08  03:15  Shadertoy more phong lightning
 	09  02:15  Shadertoy adjusting phong lightning for model
 	    01:00  Adjusting planning report.
-
 	10  02:00  Trying to solve the clash install issue.
 	    03:30  Adjusting planning report.
