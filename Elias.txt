@@ -24,6 +24,6 @@ Date        Time   Message
 
 ----Week 4
         08  02:00  Planning report.
-            01:00  Helping Chi with phong lighting.
+            02:00  Helping Chi with phong lighting.
         09  01:00  Time reports: updating mine, ensuring consistent format.
         10  05:00  Planning report.
