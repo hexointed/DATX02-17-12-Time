@@ -18,3 +18,6 @@ Date        Time   Message
      02-01  01:00  More raycasting.
         02  01:00  Added raymarching to the shader.
         03  02:00  Worked some more on the shader and had a meeting.
+
+----Week 4
+     06-10  15:00  Writing on the planning report.
