@@ -22,3 +22,11 @@ Date        Time   Message
             01:00  Meating with miquel.
         05  02:00  Reading info about planningreport and reading examples of 
                    other groups planning reports.
+
+----Week 3
+        06  04:00  Writing and going through our first edition of the planing report andd sending it to miquel for his input.
+	07  02:00  Shadertoy.
+	09  04:00  Planning report.
+	10  05:00  Planning report.
+	12  03:00  Shadertoy.
+	
