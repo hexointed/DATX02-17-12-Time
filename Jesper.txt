@@ -17,3 +17,4 @@ Date        Time   Message
 
 ----Week 4 
          7  02:00  Planning report
+         10 03:00  Writing on the planning report
