@@ -16,5 +16,5 @@ Date        Time   Message
             02:00  doing the plagarism and sources assignment
 
 ----Week 4 
-         7  02:00  Planning report
-         10 03:00  Writing on the planning report
+        07  02:00  Planning report
+        10  03:00  Writing on the planning report
