@@ -34,3 +34,4 @@ Date        Time   Message
         16  04:00  Ray marcher with whole group, clash install.
             01:00  Meeting with supervisor.
             02:00  Ray marcher with shadows.
+        17  05:00  Read KBTX-17-08 planning report, clash install with Chi.
