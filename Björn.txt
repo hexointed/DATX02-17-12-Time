@@ -20,4 +20,14 @@ Date        Time   Message
         03  02:00  Worked some more on the shader and had a meeting.
 
 ----Week 4
-     06-10  15:00  Writing on the planning report.
+        06  03:00  Writing on the planning report.
+        07  03:00  Writing on the planning report.
+        08  03:00  Writing on the planning report.
+        09  03:00  Writing on the planning report.
+        10  03:00  Writing on the planning report.
+----Week 5
+        13  02:00  Trying out clash.
+        14  02:00  Writing on the renderer.
+        16  08:00  Trrying to fix the clash install and writing more on the renderer.
+        17  08:00  Starting on the final report, renderer and reading the other
+                   groups planning report.

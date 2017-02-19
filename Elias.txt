@@ -27,3 +27,11 @@ Date        Time   Message
             02:00  Helping Chi with phong lighting.
         09  01:00  Time reports: updating mine, ensuring consistent format.
         10  05:00  Planning report.
+        11  03:00  Ray marcher with reflection
+        12  04:00  Ray marcher with reflection, uniform scaling of sdf.
+
+----Week 5
+        16  04:00  Ray marcher with whole group, clash install.
+            01:00  Meeting with supervisor.
+            02:00  Ray marcher with shadows.
+        17  05:00  Read KBTX-17-08 planning report, clash install with Chi.

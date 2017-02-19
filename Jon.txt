@@ -18,7 +18,10 @@ Date        Time   Message
                    hederlighet och upphovsrätt"
             01:00  Installed/configured Source control tools
 
---Week 3
+----Week 3
         30  02:00  Reviewed examples for CLASH
      02-02  04:00  Discussion of the planning report and first draft of the 
                    time plan spreadsheet.
+
+----Week 4
+        10  05:00  Planning report.
