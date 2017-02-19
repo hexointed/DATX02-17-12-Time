@@ -37,5 +37,5 @@ Date        Time   Message
         16  03:00  group meeting with shadertoy.
             01:00  groupmeeting with miquel.
             01:00  groupmeeting with shadertoy
-        19  02:00 kleo library course.
+        19  02:00  kleo library course.
         12  03:00  Shadertoy.
