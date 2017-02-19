@@ -20,6 +20,9 @@ Date        Time   Message
          10 03:00  Writing on the planning report
 
 ----Week 5
-		 13 04:00  Wrote a unsigned raymarcher shader which shows the distance function in grey scale. https://www.shadertoy.com/view/ldfyRH 
-		 15 02:00  Made the marcher a little bit better and faster. read some on lighting.
-		 17 05:00  Rewrote the shader for better camera management and also optimized the marching loop in several ways.
+         13 04:00  Wrote a unsigned raymarcher shader which shows the distance 
+	           function in grey scale. https://www.shadertoy.com/view/ldfyRH 
+         15 02:00  Made the marcher a little bit better and faster. read some on 
+	           lighting.
+         17 05:00  Rewrote the shader for better camera management and also 
+	           optimized the marching loop in several ways.
