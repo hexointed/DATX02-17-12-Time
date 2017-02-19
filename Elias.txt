@@ -31,7 +31,9 @@ Date        Time   Message
         12  04:00  Ray marcher with reflection, uniform scaling of sdf.
 
 ----Week 5
-        16  04:00  Ray marcher with whole group, clash install.
+        16  04:00  Ray marcher with whole group, CLaSH install.
             01:00  Meeting with supervisor.
             02:00  Ray marcher with shadows.
-        17  05:00  Read KBTX-17-08 planning report, clash install with Chi.
+        17  05:00  Read KBTX-17-08 planning report, CLaSH install with Chi.
+        18  04:00  More shadows.
+        19  05:00  Playing around with CLaSH.
