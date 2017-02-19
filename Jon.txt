@@ -25,3 +25,7 @@ Date        Time   Message
 
 ----Week 4
         10  05:00  Planning report.
+
+----Week 5
+        16  07:00  Meeting with whole group, discussion about gradient. Meeting
+                   with supervisor.
