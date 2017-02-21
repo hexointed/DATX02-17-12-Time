@@ -37,3 +37,5 @@ Date        Time   Message
         17  05:00  Read KBTX-17-08 planning report, CLaSH install with Chi.
         18  04:00  More shadows.
         19  05:00  Playing around with CLaSH.
+
+Total:      74:00

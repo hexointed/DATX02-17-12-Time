@@ -37,3 +37,5 @@ Date        Time   Message
         17  04:00  Discussion and tutorial on reference shader.
         18  06:00  Work on implementing reference shader.
         19  06:00  Reference design shader implementation variation tests.
+
+Total:      71:00

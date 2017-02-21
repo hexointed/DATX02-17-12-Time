@@ -32,3 +32,5 @@ Date        Time   Message
         16  08:00  Trrying to fix the clash install and writing more on the renderer.
         17  08:00  Starting on the final report, renderer and reading the other
                    groups planning report.
+
+Total:      68:30
