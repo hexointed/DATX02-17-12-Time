@@ -20,12 +20,12 @@ Date        Time   Message
      02-01  03:30  Basic raymarcher with phong lighting implemented
 
 ----Week 4
-	07  03:00  Planning report	
-	08  03:15  Shadertoy more phong lightning
-	09  02:15  Shadertoy adjusting phong lightning for model
-	    01:00  Adjusting planning report.
-	10  02:00  Trying to solve the clash install issue.
-	    03:30  Adjusting planning report.
+        07  03:00  Planning report	
+        08  03:15  Shadertoy more phong lightning
+        09  02:15  Shadertoy adjusting phong lightning for model
+            01:00  Adjusting planning report.
+        10  02:00  Trying to solve the clash install issue.
+            03:30  Adjusting planning report.
 ----Week 5
         16  01:00 Meeting with supervisor
             04:00 Shadertoy with the group. 

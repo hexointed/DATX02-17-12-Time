@@ -25,11 +25,12 @@ Date        Time   Message
 
 ----Week 4
 
-        06  04:00  Writing and going through our first edition of the planing report andd sending it to miquel for his input.
-	07  02:00  Shadertoy.
-	09  04:00  Planning report.
-	10  05:00  Planning report.
-	12  03:00  Shadertoy.
+        06  04:00  Writing and going through our first edition of the planing 
+                   report andd sending it to miquel for his input.
+        07  02:00  Shadertoy.
+        09  04:00  Planning report.
+        10  05:00  Planning report.
+        12  03:00  Shadertoy.
 	
 ----Week 5
         13  04:00  Shadertoy.
