@@ -28,9 +28,9 @@ Date        Time   Message
                    optimized the marching loop in several ways.
          18 04:00  Implemented lighting and realised that I've made several 
                    mistakes of different degrees of severity. For now not much 
-                   runs as good as 
+                   runs as good ass. 
                    it could and the light shows on the wrong side of the sphere, 
-                   which is a problem. The most likely error is the calculating 
+                   which is a problemm. The most likely error is the calculating 
                    of the normal for surfaces.
          19 02:00  Messed with git for far to long, no progress with the shader 
                    at all but I'm sure the problem is the way I calculate the 
