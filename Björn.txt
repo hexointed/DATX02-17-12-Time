@@ -35,5 +35,7 @@ Date        Time   Message
 
 ----Week 6
         21  04:00  Working on the report.
+        23  09:30  Working on the report. Writing shader. 
+                   Preparing for the planning report.
 
 Total:      68:30
