@@ -37,5 +37,6 @@ Date        Time   Message
         21  04:00  Working on the report.
         23  09:30  Working on the report. Writing shader. 
                    Preparing for the planning report.
+        24  06:30  Meeting, debugging clash and writing shader.
 
 Total:      68:30
