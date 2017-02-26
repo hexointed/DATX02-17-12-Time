@@ -32,5 +32,12 @@ Date        Time   Message
             02:30  improving phong lightning.
             01:30  Installing clash.
         19  02:00  Read KBTX-17-08 planning report.
+----Week 6
+        21  02:30  Shadertoy 
+        23  07:00  Learning about Clash and preparation for meeting with KBTX
+        24  01:00  Planning report discussion with KBTX-17-08 at library
+            01:00  Meeting with supervisor
+            05:30  Learning and implementing in Clash
+        25  03:00  More Clash
 
 Total:      58:30
