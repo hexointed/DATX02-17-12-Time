@@ -48,5 +48,6 @@ Date        Time   Message
 
 ----Week 7
         27  04:00  CLaSH recursion solved!
+            04:00  Half-time presentation.
 
-Total:     104:00
+Total:     108:00
