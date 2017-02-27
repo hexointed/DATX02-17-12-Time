@@ -39,4 +39,6 @@ Date        Time   Message
                    Preparing for the planning report.
         24  06:30  Meeting, debugging clash and writing shader.
 
+----Week 7  05:30  Clash, working on the mid-term presentation.
+
 Total:      68:30
