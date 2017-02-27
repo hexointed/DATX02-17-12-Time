@@ -43,7 +43,10 @@ Date        Time   Message
         23  07:00  More reflections, preparation for meeting with KBTX-group.
         24  10:00  CLaSH recursion, group meeting, planning report discussion 
                    with KBTX-17-08.
-        24  02:00  CLaSH recursion, TemplateHaskell.
-        25  03:00  CLaSH recursion, TemplateHaskell.
+        25  02:00  CLaSH recursion, TemplateHaskell.
+        26  03:00  CLaSH recursion, TemplateHaskell.
 
-Total:     100:00
+----Week 7
+        27  04:00  CLaSH recursion solved!
+
+Total:     104:00
