@@ -41,5 +41,13 @@ Date        Time   Message
 ----Week 6
         21  04:00  Vim script for updating times in time reports, formatting.
         23  07:00  More reflections, preparation for meeting with KBTX-group.
+        24  10:00  CLaSH recursion, group meeting, planning report discussion 
+                   with KBTX-17-08.
+        25  02:00  CLaSH recursion, TemplateHaskell.
+        26  03:00  CLaSH recursion, TemplateHaskell.
 
-Total:      85:00
+----Week 7
+        27  04:00  CLaSH recursion solved!
+            04:00  Half-time presentation.
+
+Total:     108:00

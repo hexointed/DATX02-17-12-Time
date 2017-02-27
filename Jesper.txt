@@ -36,6 +36,19 @@ Date        Time   Message
                    normal of surfaces.
 
 ----Week 6
-         
+         20 04:00  try to understand and implement a better way to calculate the 
+                   normal vector of surfaces
+         22 07:00  Helped Jon with his implementation of reflective surfaces and
+                   made sure that I understand them.
+         23 02:00  Studied up on the way we calculate normal vectors until I 
+                   understood why we do it the way we do
+            00:30  "prooved" how orthagonal projections are calculated 
+                   (we made sure we understand it)  
+            01:00  Made sure I understand everything in Jons ray marcher
+            00:30  Messed with git
+            04:00  Prepared for "handledningstillfälle 1" 
+         24 01:30  "Handledningstillfälle 1"
+            00:40  Meeting with our groups "helper?"
+            01:00  Tried to solve a problem with "repeating scenery"   
 
-Total:      42:00
+Total:      64:10

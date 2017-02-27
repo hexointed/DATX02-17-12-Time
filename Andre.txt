@@ -24,7 +24,6 @@ Date        Time   Message
                    other groups planning reports.
 
 ----Week 4
-
         06  04:00  Writing and going through our first edition of the planing 
                    report andd sending it to miquel for his input.
         07  02:00  Shadertoy.
@@ -39,6 +38,15 @@ Date        Time   Message
             01:00  groupmeeting with miquel.
             01:00  groupmeeting with shadertoy
         19  02:00  kleo library course.
-        12  03:00  Shadertoy.
+            03:00  Shadertoy.
 
-Total:      75:30
+----Week 6
+        23  01:00  Installing cla$h.
+            02:00  Reading the other groups planning report and making comments
+                   about it.
+        24  01:00  Library meeting where we where looking at the other groups 
+                   work and getting feedback on our work.
+            01:00  Group discussion about upcoming prewsentation and work.        
+            01:00  Group meeting
+
+Total:      81:30
