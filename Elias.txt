@@ -47,7 +47,9 @@ Date        Time   Message
         26  03:00  CLaSH recursion, TemplateHaskell.
 
 ----Week 7
-        27  04:00  CLaSH recursion solved!
-            04:00  Half-time presentation.
+        27  04:00  CLaSH recursion almost solved!
+            04:00  Half-time presentation preparation.
+        28  04:00  Half-time presentation.
+            03:00  CLaSH recursive carry look-ahead adder!
 
-Total:     108:00
+Total:     115:00
