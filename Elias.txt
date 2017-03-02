@@ -51,5 +51,7 @@ Date        Time   Message
             04:00  Half-time presentation preparation.
         28  04:00  Half-time presentation.
             03:00  CLaSH recursive carry look-ahead adder!
+     03-01  07:00  CLaSH, self evaluation.
+        02  07:00  CLaSH, TemplateHaskell.
 
-Total:     115:00
+Total:     129:00
