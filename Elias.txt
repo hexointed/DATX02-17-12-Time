@@ -53,5 +53,6 @@ Date        Time   Message
             03:00  CLaSH recursive carry look-ahead adder!
      03-01  07:00  CLaSH, self evaluation.
         02  08:00  CLaSH, TemplateHaskell.
+        03  08:00  CLaSH, self evaluation.
 
-Total:     130:00
+Total:     138:00
