@@ -42,5 +42,8 @@ Date        Time   Message
 ----Week 7
         27  05:30  Clash, working on the mid-term presentation.
         28  04:00  Prepping, presenting and attending mid-term presentations.
+     03-02  02:30  Info lab.
+        03  07:00  Self-evaluation. Trying to install clash in the most
+                   round-about way possible.
 
 Total:      94:00
