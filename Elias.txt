@@ -54,5 +54,7 @@ Date        Time   Message
      03-01  07:00  CLaSH, self evaluation.
         02  08:00  CLaSH, TemplateHaskell.
         03  08:00  CLaSH, self evaluation.
+        04  03:00  Dependent types in CLaSH.
+        05  02:00  Floating point computations.
 
-Total:     138:00
+Total:     143:00
