@@ -58,4 +58,4 @@ Date        Time   Message
         02  01:00  Info Lab.
         03  00:30  Self evaluation meeting
 
-Total:      81:30
+Total:      90:00

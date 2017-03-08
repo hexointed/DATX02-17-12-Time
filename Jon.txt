@@ -54,3 +54,5 @@ Date        Time   Message
         03  03:00  More research on the space repetitions. Self evaluation.
         04  04:00  Reference shader restructuring
         05  04:00  Design of an optimization technique for the main algorithm.
+
+Total:     112:10
