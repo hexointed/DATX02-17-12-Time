@@ -26,12 +26,14 @@ Date        Time   Message
             01:00  Adjusting planning report.
         10  02:00  Trying to solve the clash install issue.
             03:30  Adjusting planning report.
+
 ----Week 5
         16  01:00  Meeting with supervisor
             04:00  Shadertoy with the group. 
             02:30  improving phong lightning.
             01:30  Installing clash.
         19  02:00  Read KBTX-17-08 planning report.
+
 ----Week 6
         21  02:30  Shadertoy 
         23  07:00  Learning about Clash and preparation for meeting with KBTX
@@ -40,4 +42,13 @@ Date        Time   Message
             05:30  Learning and implementing in Clash
         25  03:00  More Clash
 
-Total:      78:30
+----Week 7
+        27  04:00  Half-time presentation preparation
+        28  04:00  Half-Time presentation
+        02  01:00  filling in the self-evaluation paper and information at library
+            01:15  Clash learning
+        03  00:15  self-evaluation meeting with supervisor.
+        05  01:30  More Clash
+        
+
+Total:      90:30

@@ -51,4 +51,16 @@ Date        Time   Message
             00:40  Meeting with our groups "helper?"
             01:00  Tried to solve a problem with "repeating scenery"   
 
-Total:      64:10
+----Week 7
+         27 06:00  Work on presentation
+            02:00  Try to remember presentation
+         28 04:00  Prepare for presentation, rehearse for presentation, do 
+                   presentation and listen to some other presentations
+         1  05:00  Study and install clash, do self evaluation
+         2  02:00  Prepare for library help-event and do the library event
+         3  05:00  Search 2D visualization of distance field for errors.
+         5  04:00  Work on a visual representation of the "program flow" of the 
+                   reference shader, for easier understanding.
+
+
+Total:      92:10

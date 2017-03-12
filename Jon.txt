@@ -38,4 +38,21 @@ Date        Time   Message
         18  06:00  Work on implementing reference shader.
         19  06:00  Reference design shader implementation variation tests.
 
-Total:      71:00
+----Week 6
+        20  05:30  Reference design shader development.
+        21  03:00  Reference design shader development.
+        22  02:30  Reference design shader development.
+        23  05:00  shader tests and Grupputvärdering-preparations
+        24  01:30  "Handledningstillfälle 1"
+            00:40  Meeting with group Advisor
+            03:00  Investigated problems with my implementation of space repetitions.
+
+----Week 7
+        27  02:00  shader debugging.
+        28  05:00  Prepare for presentation, rehearse for presentation, do presentation and listen to some other presentations
+     03-02  02:00  Prepare for library help-event and do the library event
+        03  03:00  More research on the space repetitions. Self evaluation.
+        04  04:00  Reference shader restructuring
+        05  04:00  Design of an optimization technique for the main algorithm.
+
+Total:     112:10

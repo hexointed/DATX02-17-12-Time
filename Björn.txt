@@ -29,7 +29,8 @@ Date        Time   Message
 ----Week 5
         13  02:00  Trying out clash.
         14  02:00  Writing on the renderer.
-        16  08:00  Trrying to fix the clash install and writing more on the renderer.
+        16  08:00  Trrying to fix the clash install and writing more on the 
+                   renderer.
         17  08:00  Starting on the final report, renderer and reading the other
                    groups planning report.
 
@@ -43,11 +44,12 @@ Date        Time   Message
         27  05:30  Clash, working on the mid-term presentation.
         28  04:00  Prepping, presenting and attending mid-term presentations.
      03-02  02:30  Info lab.
-        03  07:00  Self-evaluation. Trying to install clash in the most
+        03  07:00  Self-evaluation. Trying to install clash in the most 
                    round-about way possible.
 
 ----Week 8
         08  02:30  Meeting and going through what we've done so far on the project.
         12  00:10  Logging.
 
-Total:      98:00
+
+Total:     107:30

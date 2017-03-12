@@ -49,4 +49,13 @@ Date        Time   Message
             01:00  Group discussion about upcoming prewsentation and work.        
             01:00  Group meeting
 
-Total:      81:30
+----Week 6
+        27  01:00  Looking at the mid term presentation.
+        28  02:00  Helping preparing for the mid term presentation.
+            02:00  Looking at our and other groups mid term presentations.
+     03-01  01:00  Intro to CLaSH.
+            01:00  Self evaluation form.
+        02  01:00  Info Lab.
+        03  00:30  Self evaluation meeting
+
+Total:      90:00

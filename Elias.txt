@@ -53,5 +53,11 @@ Date        Time   Message
             03:00  CLaSH recursive carry look-ahead adder!
      03-01  07:00  CLaSH, self evaluation.
         02  08:00  CLaSH, TemplateHaskell.
+        03  08:00  CLaSH, self evaluation.
+        04  03:00  Dependent types in CLaSH.
+        05  02:00  Floating point computations.
 
-Total:     130:00
+----Week 8
+		08  09:00  Basic gpu core.
+
+Total:     152:00
