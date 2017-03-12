@@ -53,7 +53,7 @@ Date        Time   Message
         08  01:00  Meeting with supervisor
             02:30  Meeting with the group and talked about our ref shader and clash codes.
         11  01:15  Reviewing the clash code from wednesday.
-        12  03:30  More clash.
+        12  02:30  More clash.
             01:15  Report
 
 Total:      90:30
