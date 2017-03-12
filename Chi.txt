@@ -49,6 +49,11 @@ Date        Time   Message
             01:15  Clash learning
         03  00:15  self-evaluation meeting with supervisor.
         05  01:30  More Clash
-        
+----Week 8
+        08  01:00  Meeting with supervisor
+            02:30  Meeting with the group and talked about our ref shader and clash codes.
+        11  01:15  Reviewing the clash code from wednesday.
+        12  03:30  More clash.
+            01:15  Report
 
 Total:      90:30
