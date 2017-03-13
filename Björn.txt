@@ -52,4 +52,4 @@ Date        Time   Message
         12  00:10  Logging.
 
 
-Total:     107:30
+Total:     110:10

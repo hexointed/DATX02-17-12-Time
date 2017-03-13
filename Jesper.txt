@@ -72,4 +72,4 @@ Date        Time   Message
                    scene complexity.
 
 
-Total:      92:10
+Total:     119:40
