@@ -58,6 +58,13 @@ Date        Time   Message
         05  02:00  Floating point computations.
 
 ----Week 8
-		08  09:00  Basic gpu core.
+        08  09:00  Basic gpu core.
 
-Total:     152:00
+----Week 9
+        14  05:00  Refactored out stack functionality, merged SceneUnit and
+	           DFU.
+	15  08:00  Code cleanup, rewrite of SceneUnit -> DFU.
+	16  09:00  QuickCheck, RayUnit, moved some functionality away from
+	           DFU.
+
+Total:     174:00
