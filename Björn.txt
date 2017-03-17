@@ -55,4 +55,4 @@ Date        Time   Message
         16  10:00  Clash working.
         17  10:00  Meeting, getting up to speed with clash.
 
-Total:     107:30
+Total:     110:10

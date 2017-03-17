@@ -61,6 +61,15 @@ Date        Time   Message
          3  05:00  Search 2D visualization of distance field for errors.
          5  04:00  Work on a visual representation of the "program flow" of the 
                    reference shader, for easier understanding.
+----Week 8
+         6  03:00  Orthogonal optimization for reference shader
+         7  06:00  Worked on reference shader
+         8  06:30  meeting with library people and reference shader work
+         9  02:00  worked on reference shader
+         10 06:00  worked on reference shader
+         11 04:00  Researched other ways to get better performance. Was able to
+                   see a 20-330% fps boost after this weeks work, depending on
+                   scene complexity.
 
 
-Total:      92:10
+Total:     119:40
