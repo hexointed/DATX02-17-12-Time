@@ -51,5 +51,8 @@ Date        Time   Message
         08  02:30  Meeting and going through what we've done so far on the project.
         12  00:10  Logging.
 
+----Week 8
+        16  10:00  Clash working.
+        17  10:00  Meeting, getting up to speed with clash.
 
 Total:     110:10
