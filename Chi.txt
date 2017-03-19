@@ -56,4 +56,8 @@ Date        Time   Message
         12  02:30  More learning.
             01:15  Report
 
+----Week 9
+        16  06:30  Report, Clash and checking gpu core codes.
+        17  09:00  Meeting with the group and supervisor and checking codes.
+        19  02:30  Codes uploaded by Elias.
 Total:      99:00
