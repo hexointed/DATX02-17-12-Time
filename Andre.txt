@@ -58,4 +58,9 @@ Date        Time   Message
         02  01:00  Info Lab.
         03  00:30  Self evaluation meeting
 
+----Week 7
+        08  02:30 meeting and going through everyones progress.
+
+----Week 6
+        17  02:00 meeting and going through everyones progress.
 Total:      90:00
