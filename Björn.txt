@@ -51,12 +51,12 @@ Date        Time   Message
         08  02:30  Meeting and going through what we've done so far on the project.
         12  00:10  Logging.
 
-----Week 8
+----Week 9
         16  10:00  Clash working.
         17  10:00  Meeting, getting up to speed with clash.
 
-----Week 9
+----Week 10
         20  05:00  Internal meeting. Talking about the structure of the GPU.
                    Setting up Mendeley.
 
-Total:     130:10
+Total:     133:10

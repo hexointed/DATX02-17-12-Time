@@ -1,4 +1,4 @@
-Date        Time   Message
+
 ----Week 1
 2017-01-17  03:00  Lecture.
         17  01:30  First meeting with the group.
@@ -49,7 +49,7 @@ Date        Time   Message
             01:00  Group discussion about upcoming prewsentation and work.        
             01:00  Group meeting
 
-----Week 6
+----Week 7
         27  01:00  Looking at the mid term presentation.
         28  02:00  Helping preparing for the mid term presentation.
             02:00  Looking at our and other groups mid term presentations.
@@ -58,9 +58,10 @@ Date        Time   Message
         02  01:00  Info Lab.
         03  00:30  Self evaluation meeting
 
-----Week 7
+----Week 8
         08  02:30 meeting and going through everyones progress.
 
-----Week 6
+----Week 9
         17  02:00 meeting and going through everyones progress.
-Total:      90:00
+
+Total:      94:30

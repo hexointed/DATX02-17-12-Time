@@ -66,4 +66,7 @@ Date        Time   Message
         16  09:00  QuickCheck, RayUnit, moved some functionality away from DFU.
         17  07:00  Create Controller that displays results onto display buffer.
 
-Total:     181:00
+----Week 10
+        20  08:00  High level design/architecture.
+
+Total:     189:00
