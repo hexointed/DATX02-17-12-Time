@@ -58,5 +58,7 @@ Date        Time   Message
 ----Week 10
         20  05:00  Internal meeting. Talking about the structure of the GPU.
                    Setting up Mendeley.
+        21  03:00  Writing on the report.
+        22  09:00  Looking at the design of the GPU, working on the report.
 
 Total:     133:10
