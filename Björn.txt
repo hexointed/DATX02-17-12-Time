@@ -60,6 +60,7 @@
                    Setting up Mendeley.
         21  03:00  Writing on the report.
         22  09:00  Disscussing the GPU, working on the report.
-        23  10:00  Disscussing the GPU, reading up on previous papers.
+        23  10:00  Disscussing the GPU, meeting, reading up on previous papers.
+        24  10:00  Writing on the report, reading up on previous papers.
 
 Total:     147:10
