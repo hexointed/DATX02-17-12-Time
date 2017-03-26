@@ -61,4 +61,13 @@ Date        Time   Message
         17  09:00  Meeting with the group and supervisor and checking codes.
         19  02:30  Reviewing codes uploaded by Elias.
 
+----Week10
+        20  07:00  Meeting with group
+        21  03:30  Meeting with group and checking mendeley
+        22  03:30  Flow chart with Andre
+        23  05:30  Flow chart with Andre
+            01:00  Meeting with supervisor
+        25  08:30  Literature study
+        26  06:30  Literature study
+        
 Total:     117:00
