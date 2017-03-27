@@ -55,4 +55,20 @@ Date        Time   Message
         04  04:00  Reference shader restructuring
         05  04:00  Design of an optimization technique for the main algorithm.
 
+----Week 8
+        08  02:00  Group meeting.
+
+----Week 9
+        13  03:00  Documentation.
+        15  02:00  Clash config
+        16  04:00  Clash readup
+        17  08:00  Group meeting with supervisor, runthrough of algorithm and plan. Documentation.
+
+----Week 10
+        20  08:00  Harware design group talks and idea review
+        21  08:00  Hardware queue, flowchart high level design
+        22  06:00  Software review
+        23  03:00  Review of core operation
+        25  03:00  Literature studies
+
 Total:     112:10
