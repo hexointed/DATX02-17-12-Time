@@ -69,5 +69,9 @@ Date        Time   Message
 ----Week 10
         20  08:00  High level design/architecture.
         21  09:00  Literature study, hardware queue, flowchart high level design
+        22  05:00  Flowchart optimization
+        23  08:00  Begin control flow unit
+        24  01:00  control flow unit
+        26  04:00  basic core
 
-Total:     198:00
+Total:     216:00

@@ -64,4 +64,11 @@
 ----Week 9
         17  02:00 meeting and going through everyones progress.
 
+----Week10
+        20  07:00  Meeting with group
+        21  05:00  Meeting with group and flowchart
+        22  03:30  Flow chart with Chi
+        23  05:30  Flow chart with Chi
+            01:00  Meeting with supervisor
+
 Total:      94:30
