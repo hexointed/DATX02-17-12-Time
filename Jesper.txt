@@ -71,5 +71,12 @@ Date        Time   Message
                    see a 20-330% fps boost after this weeks work, depending on
                    scene complexity.
 
+----Week 9 
+         17 01:30  Meeting and discussion with group
+
+----Week 9
+         20 07:00  Algorith flowchart, improving shader, study clash and Elias code
+         21 07:00  Algorith flowchart, discuss optimizations, read article
+         22 04:00  Study Elias code
 
 Total:     119:40
