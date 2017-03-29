@@ -77,5 +77,6 @@ Date        Time   Message
 ----Week 11
         27  08:00  Rewrite control flow unit
         28  10:00  Basic core testing and bug fixing
+        29  09:00  Memory design
 
 Total:     234:00
