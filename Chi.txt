@@ -69,5 +69,5 @@ Date        Time   Message
             01:00  Meeting with supervisor
         25  08:30  Literature study
         26  06:30  Literature study
-        
-Total:     117:00
+
+Total:     152:30
