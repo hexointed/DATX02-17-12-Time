@@ -74,4 +74,10 @@ Date        Time   Message
         23  03:00  Review of core operation
         25  03:00  Literature studies
 
+----Week 11
+        27  04:00  Clash tests
+        28  06:00  Algorithm discussion and multipass rendering studies.
+        29  08:00  Architecture redesign discussion, meeting, Synthesis tool evaluation.
+
+
 Total:     159:10
