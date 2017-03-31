@@ -69,4 +69,4 @@
         29  11:00  Coding on the hardware, meeting.
         30  10:00  Getting stuck on the coding and writing some on the report instead.
 
-Total:     183:10
+Total:     204:10
