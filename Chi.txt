@@ -69,5 +69,16 @@ Date        Time   Message
             01:00  Meeting with supervisor
         25  08:30  Literature study
         26  06:30  Literature study
-
+        
+----Week11
+        27  06:00  Flow chart, code with Andre and literature study
+        28  06:00  Code and literature study
+        29  04:00  Code with Andre
+            01:00  Meetin with supervisor
+            01:00  Discussion with the group
+        30  03:30  Code with Andre
+        31  05:30  Literature study
+        01  07:30  Literature study
+        02  06:30  Reviewing last weeks literature.
+        
 Total:     152:30
