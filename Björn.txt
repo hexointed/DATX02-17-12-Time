@@ -73,4 +73,4 @@
 ----Week 12
      04-03  06:00  Coding on the GPU.
 
-Total:     204:10
+Total:     214:30
