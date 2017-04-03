@@ -80,5 +80,5 @@ Date        Time   Message
         31  05:30  Literature study
         01  07:30  Literature study
         02  06:30  Reviewing last weeks literature.
-        
-Total:     152:30
+
+Total:     193:30

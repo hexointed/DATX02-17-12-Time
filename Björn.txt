@@ -70,4 +70,4 @@
         30  10:00  Getting stuck on the coding and writing some on the report instead.
         31  10:20  TopQueue.hs almost functional, intro kinda pretty.
 
-Total:     204:10
+Total:     214:30
