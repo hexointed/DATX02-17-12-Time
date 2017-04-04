@@ -74,9 +74,15 @@ Date        Time   Message
 ----Week 9 
          17 01:30  Meeting and discussion with group
 
-----Week 9
+----Week 10
          20 07:00  Algorith flowchart, improving shader, study clash and Elias code
          21 07:00  Algorith flowchart, discuss optimizations, read article
          22 04:00  Study Elias code
+
+----Week 11 
+		 4  04:30  read article, discuss culling, evaluate worst case scenario for marching
+		 5  01:00  read articla "fast raytracing"
+		    05:30  discussion with group, performance evaluation
+		 6  05:00  shader evaluation software, wont work on laptops with dual gpu.
 
 Total:     119:40
