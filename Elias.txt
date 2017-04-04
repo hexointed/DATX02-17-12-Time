@@ -74,4 +74,9 @@ Date        Time   Message
         24  01:00  control flow unit
         26  04:00  basic core
 
-Total:     216:00
+----Week 11
+        27  08:00  Rewrite control flow unit
+        28  10:00  Basic core testing and bug fixing
+        29  09:00  Memory design
+
+Total:     234:00

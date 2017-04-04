@@ -45,11 +45,13 @@ Date        Time   Message
         23  05:00  shader tests and Grupputvärdering-preparations
         24  01:30  "Handledningstillfälle 1"
             00:40  Meeting with group Advisor
-            03:00  Investigated problems with my implementation of space repetitions.
+            03:00  Investigated problems with my implementation of space 
+                   repetitions.
 
 ----Week 7
         27  02:00  shader debugging.
-        28  05:00  Prepare for presentation, rehearse for presentation, do presentation and listen to some other presentations
+        28  05:00  Prepare for presentation, rehearse for presentation, do 
+                   presentation and listen to some other presentations
      03-02  02:00  Prepare for library help-event and do the library event
         03  03:00  More research on the space repetitions. Self evaluation.
         04  04:00  Reference shader restructuring
@@ -62,7 +64,8 @@ Date        Time   Message
         13  03:00  Documentation.
         15  02:00  Clash config
         16  04:00  Clash readup
-        17  08:00  Group meeting with supervisor, runthrough of algorithm and plan. Documentation.
+        17  08:00  Group meeting with supervisor, runthrough of algorithm and 
+                   plan. Documentation.
 
 ----Week 10
         20  08:00  Harware design group talks and idea review
@@ -71,4 +74,10 @@ Date        Time   Message
         23  03:00  Review of core operation
         25  03:00  Literature studies
 
-Total:     112:10
+----Week 11
+        27  04:00  Clash tests
+        28  06:00  Algorithm discussion and multipass rendering studies.
+        29  08:00  Architecture redesign discussion, meeting, Synthesis tool evaluation.
+
+
+Total:     177:10

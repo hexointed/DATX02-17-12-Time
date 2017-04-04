@@ -65,5 +65,12 @@
 
 ----Week 11
         27  06:00  Writing on the introduction.
+        28  10:00  Writing on the introduction and coding on the hardware implementation.
+        29  11:00  Coding on the hardware, meeting.
+        30  10:00  Getting stuck on the coding and writing some on the report instead.
+        31  10:20  TopQueue.hs almost functional, intro kinda pretty.
 
-Total:     167:10
+----Week 12
+     04-03  06:00  Coding on the GPU.
+
+Total:     214:30

@@ -80,9 +80,9 @@ Date        Time   Message
          22 04:00  Study Elias code
 
 ----Week 11 
-		 4  04:30  read article, discuss culling, evaluate worst case scenario for marching
-		 5  01:00  read articla "fast raytracing"
-		    05:30  discussion with group, performance evaluation
-		 6  05:00  shader evaluation software, wont work on laptops with dual gpu.
+		 28  04:30  read article, discuss culling, evaluate worst case scenario for marching
+		 29  01:00  read articla "fast raytracing"
+		     05:30  discussion with group, performance evaluation
+		 30  05:00  shader evaluation software, wont work on laptops with dual gpu.
 
-Total:     119:40
+Total:     139:10
