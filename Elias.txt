@@ -81,6 +81,7 @@ Date        Time   Message
         31  04:00  Memory design with Björn
 
 ----Week 12
-        04  07:00  Top level implemented (ish), bugfixes
+     04-04  07:00  Top level implemented (ish), bugfixes
+        05  06:00  More bugfixes
 
-Total:     254:00
+Total:     260:00
