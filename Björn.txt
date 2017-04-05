@@ -72,5 +72,6 @@
 ----Week 12
      04-03  06:00  Coding on the GPU.
         04  04:00  Coding on the GPU.
+        05  06:30  Did nothing of worth.
 
 Total:     214:30
