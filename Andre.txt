@@ -71,4 +71,19 @@
         23  05:30  Flow chart with Chi
             01:00  Meeting with supervisor
 
+----Week11
+        27  07:00  Flow chart, code with Chi
+        28  06:00  Clash with chi
+	    01:00  Litterature reading 
+        29  04:00  Clash with chi
+            01:00  Meetin with supervisor
+            01:00  Discussion with the group
+	30  03:30  Clash with chi
+	31  05:00  Litterature reading
+	01  01:00  Litterature reading
+ 	02  01:00  Litterature reading
+
+----Week12
+        
+
 Total:     116:30
