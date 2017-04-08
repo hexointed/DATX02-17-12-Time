@@ -73,5 +73,7 @@
      04-03  06:00  Coding on the GPU.
         04  04:00  Coding on the GPU.
         05  06:30  Did nothing of worth.
+        06  07:00  Wrote an assembler and had a meeting.
+        07  06:20  Wrote more on the assembler.
 
 Total:     231:00
