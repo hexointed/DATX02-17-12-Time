@@ -3,10 +3,10 @@ Date        Time   Message
 2017-01-17  02:00  Lecture
             01:00  First meeting with group
         18  01:00  Signed distance functions and multivariate calculus.
-            03:00  Basic raymarcher with phong lighting implemented in 
+            03:00  Basic raymarcher with phong lighting implemented in
                    shadertoy.
         19  04:00  Read earlier planning and finished reports, tested methods
-                   for creating signed distance functions from any curve using 
+                   for creating signed distance functions from any curve using
                    gradient displacement.
 
 ----Week 2
@@ -41,7 +41,7 @@ Date        Time   Message
 ----Week 6
         21  04:00  Vim script for updating times in time reports, formatting.
         23  07:00  More reflections, preparation for meeting with KBTX-group.
-        24  10:00  CLaSH recursion, group meeting, planning report discussion 
+        24  10:00  CLaSH recursion, group meeting, planning report discussion
                    with KBTX-17-08.
         25  02:00  CLaSH recursion, TemplateHaskell.
         26  03:00  CLaSH recursion, TemplateHaskell.

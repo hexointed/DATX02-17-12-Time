@@ -2,25 +2,25 @@ Date        Time   Message
 ----Week 1
 2017-01-17  02:00  Lecture
             01:00  First meeting with group
-        19  02:00  Read earlier planning and finished reports. Found a nice 
+        19  02:00  Read earlier planning and finished reports. Found a nice
                    shader IDE.
         21  04:00  Read up on distance field function generation methods.
 
 ----Week 2
         24  02:00  Lecture about project planning.
-            05:00  Planning report discussion, ray marching shaders with all 
+            05:00  Planning report discussion, ray marching shaders with all
                    group members.
-        27  06:00  Wrote intro in planning report, white board presentation of 
-                   classic polygon rendering. Demonstration of real time 
-                   graphics utilizing ray marching. Group discussions on 
+        27  06:00  Wrote intro in planning report, white board presentation of
+                   classic polygon rendering. Demonstration of real time
+                   graphics utilizing ray marching. Group discussions on
                    implementations
-        29  02:00  Completed "Onlinemodul med fokus på källkritik, akademisk 
+        29  02:00  Completed "Onlinemodul med fokus på källkritik, akademisk
                    hederlighet och upphovsrätt"
             01:00  Installed/configured Source control tools
 
 ----Week 3
         30  02:00  Reviewed examples for CLASH
-     02-02  04:00  Discussion of the planning report and first draft of the 
+     02-02  04:00  Discussion of the planning report and first draft of the
                    time plan spreadsheet.
         03  01:00  meeting with our advisor to get feedback on the planning report.
             01:00  time plan updates and discussion.
@@ -45,12 +45,12 @@ Date        Time   Message
         23  05:00  shader tests and Grupputvärdering-preparations
         24  01:30  "Handledningstillfälle 1"
             00:40  Meeting with group Advisor
-            03:00  Investigated problems with my implementation of space 
+            03:00  Investigated problems with my implementation of space
                    repetitions.
 
 ----Week 7
         27  02:00  shader debugging.
-        28  05:00  Prepare for presentation, rehearse for presentation, do 
+        28  05:00  Prepare for presentation, rehearse for presentation, do
                    presentation and listen to some other presentations
      03-02  02:00  Prepare for library help-event and do the library event
         03  03:00  More research on the space repetitions. Self evaluation.
@@ -64,7 +64,7 @@ Date        Time   Message
         13  03:00  Documentation.
         15  02:00  Clash config
         16  04:00  Clash readup
-        17  08:00  Group meeting with supervisor, runthrough of algorithm and 
+        17  08:00  Group meeting with supervisor, runthrough of algorithm and
                    plan. Documentation.
 
 ----Week 10

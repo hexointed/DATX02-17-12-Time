@@ -6,86 +6,86 @@ Date        Time   Message
 
 ----Week 2
         24  02:00  Lecture about project planning.
-            05:00  Planning report discussion, ray marching shaders with all 
+            05:00  Planning report discussion, ray marching shaders with all
                    group members.
         27  02:00  Reading about raymarching
 
 ----Week 3
-        31  02:00  Reading about raymarching, specifically what kind of basic 
+        31  02:00  Reading about raymarching, specifically what kind of basic
                    shapes are easily created and rendered.
             02:00  doing the plagarism and sources assignment
 
-----Week 4 
-         7  02:00  Planning report
-         10 03:00  Writing on the planning report
+----Week 4
+        07  02:00  Planning report
+        10  03:00  Writing on the planning report
 
 ----Week 5
-         13 04:00  Wrote a unsigned raymarcher shader which shows the distance 
-                   function in grey scale. https://www.shadertoy.com/view/ldfyRH 
-         15 02:00  Made the marcher a little bit better and faster. read some on 
+        13  04:00  Wrote a unsigned raymarcher shader which shows the distance
+                   function in grey scale. https://www.shadertoy.com/view/ldfyRH
+        15  02:00  Made the marcher a little bit better and faster. read some on
                    lighting.
-         17 05:00  Rewrote the shader for better camera management and also 
+        17  05:00  Rewrote the shader for better camera management and also
                    optimized the marching loop in several ways.
-         18 04:00  Implemented lighting and realised that I've made several 
-                   mistakes of different degrees of severity. For now not much 
-                   runs as good as it could and the light shows on the wrong 
-                   side of the sphere, which is a problem. The most likely error 
+        18  04:00  Implemented lighting and realised that I've made several
+                   mistakes of different degrees of severity. For now not much
+                   runs as good as it could and the light shows on the wrong
+                   side of the sphere, which is a problem. The most likely error
                    is the calculation of the normal for surfaces.
-         19 02:00  Messed with git for far to long, no progress with the shader 
-                   at all but I'm sure the problem is the way I calculate the 
+        19  02:00  Messed with git for far to long, no progress with the shader
+                   at all but I'm sure the problem is the way I calculate the
                    normal of surfaces.
 
 ----Week 6
-         20 04:00  try to understand and implement a better way to calculate the 
+        20  04:00  try to understand and implement a better way to calculate the
                    normal vector of surfaces
-         22 07:00  Helped Jon with his implementation of reflective surfaces and
+        22  07:00  Helped Jon with his implementation of reflective surfaces and
                    made sure that I understand them.
-         23 02:00  Studied up on the way we calculate normal vectors until I 
+        23  02:00  Studied up on the way we calculate normal vectors until I
                    understood why we do it the way we do
-            00:30  "prooved" how orthagonal projections are calculated 
-                   (we made sure we understand it)  
+            00:30  "prooved" how orthagonal projections are calculated
+                   (we made sure we understand it)
             01:00  Made sure I understand everything in Jons ray marcher
             00:30  Messed with git
-            04:00  Prepared for "handledningstillfälle 1" 
-         24 01:30  "Handledningstillfälle 1"
+            04:00  Prepared for "handledningstillfälle 1"
+        24  01:30  "Handledningstillfälle 1"
             00:40  Meeting with our groups "helper?"
-            01:00  Tried to solve a problem with "repeating scenery"   
+            01:00  Tried to solve a problem with "repeating scenery"
 
 ----Week 7
-         27 06:00  Work on presentation
+        27  06:00  Work on presentation
             02:00  Try to remember presentation
-         28 04:00  Prepare for presentation, rehearse for presentation, do 
+        28  04:00  Prepare for presentation, rehearse for presentation, do
                    presentation and listen to some other presentations
-         1  05:00  Study and install clash, do self evaluation
-         2  02:00  Prepare for library help-event and do the library event
-         3  05:00  Search 2D visualization of distance field for errors.
-         5  04:00  Work on a visual representation of the "program flow" of the 
+     03-01  05:00  Study and install clash, do self evaluation
+        02  02:00  Prepare for library help-event and do the library event
+        03  05:00  Search 2D visualization of distance field for errors.
+        05  04:00  Work on a visual representation of the "program flow" of the
                    reference shader, for easier understanding.
 ----Week 8
-         6  03:00  Orthogonal optimization for reference shader
-         7  06:00  Worked on reference shader
-         8  06:30  meeting with library people and reference shader work
-         9  02:00  worked on reference shader
-         10 06:00  worked on reference shader
-         11 04:00  Researched other ways to get better performance. Was able to
+        06  03:00  Orthogonal optimization for reference shader
+        07  06:00  Worked on reference shader
+        08  06:30  meeting with library people and reference shader work
+        09  02:00  worked on reference shader
+        10  06:00  worked on reference shader
+        11  04:00  Researched other ways to get better performance. Was able to
                    see a 20-330% fps boost after this weeks work, depending on
                    scene complexity.
 
-----Week 9 
-         17 01:30  Meeting and discussion with group
+----Week 9
+        17  01:30  Meeting and discussion with group
 
 ----Week 10
-         20 07:00  Algorithm flowchart, improving shader, study clash and Elias 
+        20  07:00  Algorithm flowchart, improving shader, study clash and Elias
                    code
-         21 07:00  Algorithm flowchart, discuss optimizations, read article
-         22 04:00  Study Elias code
+        21  07:00  Algorithm flowchart, discuss optimizations, read article
+        22  04:00  Study Elias code
 
-----Week 11 
-         28 04:30  read article, discuss culling, evaluate worst case scenario 
+----Week 11
+        28  04:30  read article, discuss culling, evaluate worst case scenario
                    for marching
-         29 01:00  read articla "fast raytracing"
+        29  01:00  read articla "fast raytracing"
             05:30  discussion with group, performance evaluation
-         30 05:00  shader evaluation software, wont work on laptops with dual 
+        30  05:00  shader evaluation software, wont work on laptops with dual
                    gpu.
 
 Total:     155:10

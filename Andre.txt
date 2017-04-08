@@ -1,4 +1,4 @@
-
+Date        Time   Message
 ----Week 1
 2017-01-17  03:00  Lecture.
         17  01:30  First meeting with the group.
@@ -10,21 +10,21 @@
         24  02:00  Lecture about project planning.
         25  03:00  More shadertoy & looking at examples of planning report.
         26  05:00  Planning report, ray marching shaders with all group members.
-        29  01:00  Read more about raymarching & raymarching implementations in 
+        29  01:00  Read more about raymarching & raymarching implementations in
                    shadertoy.
-            01:00  Reading about shaders. 
-        
+            01:00  Reading about shaders.
+
 ----Week 3
         30  02:00  More Shadertoy.
         31  02:00  Lecture.
-        02  04:00  Shadertoy.
+     02-02  04:00  Shadertoy.
         03  04:00  Shadertoy.
             01:00  Meating with miquel.
-        05  02:00  Reading info about planningreport and reading examples of 
+        05  02:00  Reading info about planningreport and reading examples of
                    other groups planning reports.
 
 ----Week 4
-        06  04:00  Writing and going through our first edition of the planing 
+        06  04:00  Writing and going through our first edition of the planing
                    report andd sending it to miquel for his input.
         07  02:00  Shadertoy.
         09  04:00  Planning report.
@@ -44,9 +44,9 @@
         23  01:00  Installing cla$h.
             02:00  Reading the other groups planning report and making comments
                    about it.
-        24  01:00  Library meeting where we where looking at the other groups 
+        24  01:00  Library meeting where we where looking at the other groups
                    work and getting feedback on our work.
-            01:00  Group discussion about upcoming prewsentation and work.        
+            01:00  Group discussion about upcoming prewsentation and work.
             01:00  Group meeting
 
 ----Week 7
@@ -74,16 +74,16 @@
 ----Week11
         27  07:00  Flow chart, code with Chi
         28  06:00  Clash with chi
-	    01:00  Litterature reading 
+            01:00  Litterature reading
         29  04:00  Clash with chi
             01:00  Meetin with supervisor
             01:00  Discussion with the group
-	30  03:30  Clash with chi
-	31  05:00  Litterature reading
-	01  01:00  Litterature reading
- 	02  01:00  Litterature reading
+        30  03:30  Clash with chi
+        31  05:00  Litterature reading
+     04-01  01:00  Litterature reading
+        02  01:00  Litterature reading
 
 ----Week12
-        
 
-Total:     116:30
+
+Total:     147:00

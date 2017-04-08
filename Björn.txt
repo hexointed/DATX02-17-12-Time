@@ -1,8 +1,9 @@
-
+Date        Time   Message
+----Week 1
 2017-01-17  03:00  Lecture + first meeting with group
         18  01:00  Signed distance functions and multivaraible calculus.
         19  03:00  Read earlier planning and finished reports, tested methods
-                   for creating signed distance functions from any curve using 
+                   for creating signed distance functions from any curve using
                    gradient displacement.
 
 ----Week 2
@@ -28,14 +29,14 @@
 ----Week 5
         13  02:00  Trying out clash.
         14  02:00  Writing on the renderer.
-        16  08:00  Trrying to fix the clash install and writing more on the 
+        16  08:00  Trrying to fix the clash install and writing more on the
                    renderer.
         17  08:00  Starting on the final report, renderer and reading the other
                    groups planning report.
 
 ----Week 6
         21  04:00  Working on the report.
-        23  09:30  Working on the report. Writing shader. 
+        23  09:30  Working on the report. Writing shader.
                    Preparing for the planning report.
         24  06:30  Meeting, debugging clash and writing shader.
 
@@ -43,11 +44,12 @@
         27  05:30  Clash, working on the mid-term presentation.
         28  04:00  Prepping, presenting and attending mid-term presentations.
      03-02  02:30  Info lab.
-        03  07:00  Self-evaluation. Trying to install clash in the most 
+        03  07:00  Self-evaluation. Trying to install clash in the most
                    round-about way possible.
 
 ----Week 8
-        08  02:30  Meeting and going through what we've done so far on the project.
+        08  02:30  Meeting and going through what we've done so far on the
+                   project.
         12  00:10  Logging.
 
 ----Week 9
@@ -64,9 +66,11 @@
 
 ----Week 11
         27  06:00  Writing on the introduction.
-        28  10:00  Writing on the introduction and coding on the hardware implementation.
+        28  10:00  Writing on the introduction and coding on the hardware
+                   implementation.
         29  11:00  Coding on the hardware, meeting.
-        30  10:00  Getting stuck on the coding and writing some on the report instead.
+        30  10:00  Getting stuck on the coding and writing some on the report
+                   instead.
         31  10:20  TopQueue.hs almost functional, intro kinda pretty.
 
 ----Week 12
@@ -76,4 +80,4 @@
         06  07:00  Wrote an assembler and had a meeting.
         07  06:20  Wrote more on the assembler.
 
-Total:     231:00
+Total:     244:20
