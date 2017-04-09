@@ -79,5 +79,7 @@ Date        Time   Message
         05  06:30  Did nothing of worth.
         06  07:00  Wrote an assembler and had a meeting.
         07  06:20  Wrote more on the assembler.
+        08  02:00  Assisted with debugging.
+        07  03:00  Rewriting the assembler.
 
 Total:     244:20
