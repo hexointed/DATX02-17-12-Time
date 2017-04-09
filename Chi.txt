@@ -90,7 +90,7 @@ Date        Time   Message
         06  05:00  Code with Andre debugging
             01:00  Meeting with supervisor
         07  02:00  Checking the Code (done debugging) and literature
-        08  06:00  Reading literature and checking Codes ( Memoery,CFU ...)
-        09  07:00  Reading literature, checkind report and reviewing codes.
+        08  06:00  Literature and checking Codes ( Memoery,CFU ...)
+        09  07:00  Literature, checkind report and reviewing codes.
 
 Total:     193:30
