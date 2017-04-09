@@ -79,7 +79,18 @@ Date        Time   Message
             01:00  Discussion with the group
         30  03:30  Code with Andre
         31  05:30  Literature study
-     04-01  07:30  Literature study
+        01  07:30  Literature study
         02  06:30  Reviewing last weeks literature.
+
+----Week12  
+        03  07:00  Code with Andre
+        04  07:00  Code with Andre and reviewing datatypes for Clash
+        05  05:00  Code with Andre
+            02:00  Debugging the Code at home.
+        06  05:00  Code with Andre debugging
+            01:00  Meeting with supervisor
+        07  02:00  Checking the Code (done debugging) and literature
+        08  06:00  Reading literatur and checking Codes ( Memoery,CFU ...)
+        09  07:00  Reading literature, checkind report and reviewing codes.
 
 Total:     193:30
