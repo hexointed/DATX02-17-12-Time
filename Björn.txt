@@ -81,5 +81,7 @@ Date        Time   Message
         07  06:20  Wrote more on the assembler.
         08  02:00  Assisted with debugging.
         07  03:00  Rewriting the assembler.
+----Week 13
+        10  06:00  Doing crappy work on the assembler.
 
 Total:     244:20
