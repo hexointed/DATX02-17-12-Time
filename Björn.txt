@@ -83,5 +83,6 @@ Date        Time   Message
         07  03:00  Rewriting the assembler.
 ----Week 13
         10  06:00  Doing crappy work on the assembler.
+        11  07:40  Doing great but confusing work on the topqueue.
 
 Total:     244:20
