@@ -88,4 +88,14 @@ Date        Time   Message
         30  05:00  shader evaluation software, wont work on laptops with dual
                    gpu.
 
+----Week 12
+        4   04:00  learn haskell, read articles on how modern games 
+                   increase performance
+        5   03:00  discuss and look up how sqrt and pow will be used and 
+                   implemented
+        6   05:00  test sqrt-aproximation in desmos and discuss which method 
+                   will be used
+        7   06:00  starting to test how sqrt will be implemented in clash
+        
+
 Total:     155:10
