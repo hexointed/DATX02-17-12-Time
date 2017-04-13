@@ -85,5 +85,6 @@ Date        Time   Message
         10  06:00  Doing crappy work on the assembler.
         11  07:40  Doing great but confusing work on the topqueue.
         12  06:00  Enabling multicores.
+        13  07:00  Did nothing of worth except some reading.
 
 Total:     244:20
