@@ -93,4 +93,14 @@ Date        Time   Message
         08  06:00  Literature and checking Codes ( Memoery,CFU ...)
         09  07:00  Literature, checkind report and reviewing codes.
 
+----Week13
+        10  03:30  Checking ref shader codes and installing synthclipse
+        11  03:30  Reading about SIMD and trying to the synthclipse to work
+        12  05:00  Trying to get the reference shader to workin synthclipse
+            01:30  Checking ref shader's flowchart
+        13  01:00  Reading abit more about SIMD
+            01:30  Trying to implement SIMD for DFU
+            01:30  Retrying to get the ref shader to work in synthclipse
+        14  03:00  Coding and research about types in clash.
+
 Total:     235:30
