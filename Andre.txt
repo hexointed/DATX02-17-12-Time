@@ -84,6 +84,22 @@ Date        Time   Message
         02  01:00  Litterature reading
 
 ----Week12
+        03  07:00  Code with chi
+        04  07:00  Code with chi and reviewing datatypes for Clash
+        05  05:00  Code with chi
+            02:00  Debugging the code at home
+        06  05:00  Code with chi and debugging the code
+            01:00  Meeting with supervisor
+        07  04:00  Finished the code (DFU)
+        08  03:00  Litterature
+        09  04:30  Litterature
 
+----Week13
+        10  02:00  Litterature
+        11  03:30  Started working on SIMD with Chi + reading about SIMD
+        12  05:00  continuing reading about simd
+        13  02:00  Reading abit more about SIMD
+            02:30  Trying to implement SIMD for DFU
+   
 
 Total:     147:00
