@@ -81,10 +81,14 @@ Date        Time   Message
         07  06:20  Wrote more on the assembler.
         08  02:00  Assisted with debugging.
         07  03:00  Rewriting the assembler.
+
 ----Week 13
         10  06:00  Doing crappy work on the assembler.
         11  07:40  Doing great but confusing work on the topqueue.
         12  06:00  Enabling multicores.
         13  07:00  Did nothing of worth except some reading.
+
+----Week 14
+        18  06:00  Did nothing of worth.
 
 Total:     276:00
