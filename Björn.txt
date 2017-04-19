@@ -90,5 +90,6 @@ Date        Time   Message
 
 ----Week 14
         18  06:00  Did nothing of worth.
+        19  07:00  Some writing and some coding.
 
 Total:     276:00
