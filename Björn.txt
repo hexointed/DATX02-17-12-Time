@@ -89,7 +89,10 @@ Date        Time   Message
         13  07:00  Did nothing of worth except some reading.
 
 ----Week 14
+        17  04:00  Something something reading.
         18  06:00  Did nothing of worth.
         19  07:00  Some writing and some coding.
+        20  01:00  Meeting.
+        21  05:00  Reading.
 
 Total:     276:00
