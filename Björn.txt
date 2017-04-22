@@ -94,5 +94,6 @@ Date        Time   Message
         19  07:00  Some writing and some coding.
         20  01:00  Meeting.
         21  05:00  Reading.
+        22  05:00  Writing on the report.
 
 Total:     276:00
