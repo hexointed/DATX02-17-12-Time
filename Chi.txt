@@ -103,4 +103,4 @@ Date        Time   Message
             01:30  Retrying to get the ref shader to work in synthclipse
         14  03:00  Coding and research about types in clash.
 
-Total:     235:30
+Total:     256:00
