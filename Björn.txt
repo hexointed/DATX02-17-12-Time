@@ -95,4 +95,4 @@ Date        Time   Message
         20  01:00  Meeting.
         21  05:00  Reading.
 
-Total:     276:00
+Total:     299:00
