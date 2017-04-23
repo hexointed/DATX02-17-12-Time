@@ -96,6 +96,22 @@ Date        Time   Message
         6   05:00  test sqrt-aproximation in desmos and discuss which method 
                    will be used
         7   06:00  starting to test how sqrt will be implemented in clash
+
+----Week 13
+        10  07:00  Looked up lookuptables and how we might implement sqrt
+                   (Goldschmidts method?)
+        11  07:00  Tried different approaches to how to guess sqrt values
+                   somewhat accuratly. what sqrt method to use.
+                   (babylonian might be better than Goldschmidt's)
+
+----Week 14
+        18  08:00  learned how our assembler works
+        19  07:00  wrote assembler for our GPU, went through the software 
+                   shader, update PDF flowshart
+        20  08:00  wrote assembler
+        21  05:00  read snake-kandidat rapport
+        22  02:00  read other reports
+        23  10:00  written on our report
         
 
 Total:     173:10
