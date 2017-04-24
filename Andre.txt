@@ -105,5 +105,17 @@ Date        Time   Message
             01:00  Literature
         14  04:00  Literature
         15  05:00  Reading about SIMD
+
+----Week14
+        18  05:30  Coding SIMD
+        19  06:00  Code with Chi and review ref shader with Jesper
+        20  06:30  Code with Chi & alone
+            01:00  Meeting with supervisor
+        21  07:00  Project report with the group
+        22  07:00  Project report with the group
+        23  07:00  Project report with the group
+        
+
+
    
 Total:     212:30

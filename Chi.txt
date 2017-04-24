@@ -103,4 +103,12 @@ Date        Time   Message
             01:30  Retrying to get the ref shader to work in synthclipse
         14  03:00  Coding and research about types in clash.
 
+----Week14
+        18  03:30  Checked report and tried to make synthclipse work with jesper
+        19  06:00  Code with Andre and review ref shader with Jesper
+        20  04:30  Code with Andre
+            01:00  Meeting with supervisor
+        21  01:30  Checking the report
+        22  03:30  checking and reading through the report
+
 Total:     256:00
