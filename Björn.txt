@@ -97,4 +97,7 @@ Date        Time   Message
         22  05:00  Writing on the report.
         23  09:00  Writing on the report.
 
+----Week 15
+        24  02:00  Fixed a bug in the assembler code.
+
 Total:     299:00
