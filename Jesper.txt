@@ -112,6 +112,9 @@ Date        Time   Message
         21  05:00  read snake-kandidat rapport
         22  02:00  read other reports
         23  10:00  written on our report
+
+----Week 14
+        25  08:30
         
 
 Total:     173:10
