@@ -92,6 +92,6 @@ Date        Time   Message
         23  05:00  Writing on report
 
 ----Week 15
-		25  04:00  Fackspråk, begin rewrite top level queue to a deque
+        25  04:00  Fackspråk, begin rewrite top level queue to a deque
 
-Total:     300:00
+Total:     309:00
