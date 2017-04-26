@@ -89,5 +89,9 @@ Date        Time   Message
 ----Week 14
         19  14:00  Looking at FPGA synthesis.
         22  08:00  Writing on report.
+        23  05:00  Writing on report
+
+----Week 15
+		25  04:00  Fackspråk, begin rewrite top level queue to a deque
 
 Total:     300:00
