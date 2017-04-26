@@ -101,4 +101,4 @@ Date        Time   Message
         24  02:00  Fixed a bug in the assembler code.
         25  03:00  Looking at code and meeting.
 
-Total:     299:00
+Total:     318:00

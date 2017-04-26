@@ -86,4 +86,8 @@ Date        Time   Message
         07  10:00  Start writing shaders for the gpu
         08  08:00  Continue writing shaders
 
-Total:     278:00
+----Week 14
+        19  14:00  Looking at FPGA synthesis.
+        22  08:00  Writing on report.
+
+Total:     300:00

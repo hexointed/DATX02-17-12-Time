@@ -117,4 +117,4 @@ Date        Time   Message
         25  08:30
         
 
-Total:     173:10
+Total:     235:40
