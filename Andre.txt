@@ -114,8 +114,5 @@ Date        Time   Message
         21  07:00  Project report with the group
         22  07:00  Project report with the group
         23  07:00  Project report with the group
-        
 
-
-   
-Total:     212:30
+Total:     252:30
