@@ -93,5 +93,7 @@ Date        Time   Message
 
 ----Week 15
         25  04:00  Fackspråk, begin rewrite top level queue to a deque
+        27  04:00  Meeting with supervisor, discussion report
+        30  04:00  More square roots
 
-Total:     309:00
+Total:     317:00
