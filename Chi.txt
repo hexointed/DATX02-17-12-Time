@@ -109,6 +109,13 @@ Date        Time   Message
         20  04:30  Code with Andre
             01:00  Meeting with supervisor
         21  01:30  Checking the report
-        22  03:30  checking and reading through the report
-
+        22  03:30  Checking and reading through the report
+        
+----Week15
+        24  06:00  Coding with Andre
+        25  03:30  Språkunder and report
+        26  03:30  Checking the comments on the report and reading through
+        27  03:30  meeting with supervisor
+        28  03:30  Checking the comments by supervisor and report
+        
 Total:     276:00
