@@ -89,11 +89,17 @@ Date        Time   Message
 ----Week 14
         19  14:00  Looking at FPGA synthesis.
         22  08:00  Writing on report.
-        23  05:00  Writing on report
+        23  05:00  Writing on report.
 
 ----Week 15
         25  04:00  Fackspråk, begin rewrite top level queue to a deque
         27  04:00  Meeting with supervisor, discussion report
         30  04:00  More square roots
 
-Total:     317:00
+----Week 16
+     05-01  04:00  Help me I am hand and I have been stuck on this
+                   guy for the last 21 years this is my only chance to
+                   get off please send help.
+        02  04:00  Writing on report.
+
+Total:     325:00
