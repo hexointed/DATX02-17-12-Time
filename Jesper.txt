@@ -114,7 +114,11 @@ Date        Time   Message
         23  10:00  written on our report
 
 ----Week 14
-        25  08:30
+        25  08:30  Assembler
+        26  07:00  tested assembler-methods
+        27  05:00  tested assembler-methods
+        28  05:00  fixed camsetup
+
         
 
 Total:     235:40
