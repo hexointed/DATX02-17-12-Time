@@ -117,5 +117,5 @@ Date        Time   Message
         26  03:30  Checking the comments on the report and reading through
         27  03:30  meeting with supervisor
         28  03:30  Checking the comments by supervisor and report
-        
-Total:     276:00
+
+Total:     296:00
