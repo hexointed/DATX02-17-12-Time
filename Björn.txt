@@ -105,5 +105,6 @@ Date        Time   Message
 ----Week 16
      05-05  05:00  Meeting and writing on the report.
         07  05:00  Writing on the theory.
+        08  06:20  Writing on the theory.
 
 Total:     320:00
