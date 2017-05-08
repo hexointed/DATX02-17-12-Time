@@ -127,4 +127,5 @@ Date        Time   Message
             01:00  Meeting with supervisor.
             02:30  Working with poster
         07  05:00  Working with poser and checking new changes in report.
-Total:     296:00
+
+Total:     316:00
