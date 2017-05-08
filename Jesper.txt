@@ -119,6 +119,15 @@ Date        Time   Message
         27  05:00  tested assembler-methods
         28  05:00  fixed camsetup
 
+----Week 15
+        1   06:00  report
+        2   10:00  report
+        3   10:00  might be done with assembler
+        4   08:00  report
+        5   08:00  report + meeting
+        6   07:00  report
+        7   08:00  report
+
         
 
 Total:     235:40
