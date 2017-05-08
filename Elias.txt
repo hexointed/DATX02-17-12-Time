@@ -102,4 +102,7 @@ Date        Time   Message
         05  04:00  Meeting with facksprȧk, writing on report.
         07  04:00  Writing on report.
 
-Total:     333:00
+----Week 17
+        08  07:00  Writing on report.
+
+Total:     340:00
