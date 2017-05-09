@@ -128,6 +128,4 @@ Date        Time   Message
         6   07:00  report
         7   08:00  report
 
-        
-
-Total:     252:40
+Total:     309:40
