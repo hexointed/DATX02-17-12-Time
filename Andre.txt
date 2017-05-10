@@ -115,4 +115,23 @@ Date        Time   Message
         22  07:00  Project report with the group
         23  07:00  Project report with the group
 
+----Week15
+        24  06:00  Coding with Chi
+        25  05:30  Språkunder and report
+        26  06:00  Going through the comments on the report from lib
+        27  02:30  Going through the comments on the report from lib
+        28  05:30  Report
+
+----Week16
+        02  06:00  Report
+        04  06:30  Report
+        05  00:30  Meeting with Fackspråket
+            06:00  Report
+            01:00  Meeting with supervisor.
+            03:30  Working with the poster
+        07  08:00  Working with the poster.
+
+----Week17
+        08  05:00 Working with poster and sending it to TT.
+        
 Total:     252:30
