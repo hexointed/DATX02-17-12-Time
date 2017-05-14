@@ -105,5 +105,8 @@ Date        Time   Message
 ----Week 17
         08  07:00  Writing on report.
         09  09:00  Writing on report.
+        10  05:00  Writing on report.
+        11  05:00  Writing on report.
+        12  08:00  Writing on report.
 
-Total:     349:00
+Total:     367:00
