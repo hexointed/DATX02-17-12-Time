@@ -123,7 +123,7 @@ Date        Time   Message
         02  02:00  Checking through the new changes in the report.
         04  05:30  Checking through report and the new changes and trying to write.
         05  00:30  Meeting with Fackspråket
-            05:00  Checking changes and trying to write reporr
+            05:00  Checking changes and trying to write report
             01:00  Meeting with supervisor.
             02:30  Working with poster
         07  05:00  Working with poser and checking new changes in report.
