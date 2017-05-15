@@ -121,7 +121,7 @@ Date        Time   Message
 ----Week16
         01  00:30  Wrote Diary.
         02  02:00  Checking through the new changes in the report.
-        04  03:30  Checking through report and the new changes and trying to write.
+        04  05:30  Checking through report and the new changes and trying to write.
         05  00:30  Meeting with Fackspråket
             05:00  Checking changes and trying to write reporr
             01:00  Meeting with supervisor.
@@ -129,9 +129,9 @@ Date        Time   Message
         07  05:00  Working with poser and checking new changes in report.
 
 ----Week17
-        08  06:00  Report
-        09  07:30  Report
-        10  06:00  Report
-        11  07:00  Report
-        12  12:30  Report
+        08  07:30  Writing on the Report
+        09  07:00  Writing on the Report
+        10  07:30  Writing on the Report
+        11  07:30  Writing on the Report
+        12  12:30  Writing on the Report
 Total:     316:00
