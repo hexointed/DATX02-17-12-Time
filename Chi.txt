@@ -134,4 +134,5 @@ Date        Time   Message
         10  07:30  Writing on the Report
         11  07:30  Writing on the Report
         12  12:30  Writing on the Report
-Total:     316:00
+
+Total:     360:00

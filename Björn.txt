@@ -111,4 +111,4 @@ Date        Time   Message
         11  10:00  Writing on the report.
         12  12:30  Writing on the report.
 
-Total:     336:20
+Total:     376:10

@@ -133,5 +133,5 @@ Date        Time   Message
 
 ----Week17
         08  05:00 Working with poster and sending it to TT.
-        
-Total:     252:30
+
+Total:     314:30
