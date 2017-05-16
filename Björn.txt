@@ -111,4 +111,7 @@ Date        Time   Message
         11  10:00  Writing on the report.
         12  12:30  Writing on the report.
 
+----Week 17
+        16  02:30 Booth presentation.
+
 Total:     376:10
