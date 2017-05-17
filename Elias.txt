@@ -109,4 +109,8 @@ Date        Time   Message
         11  08:00  Writing on report.
         12  08:00  Writing on report.
 
-Total:     376:00
+----Week 18
+        15  04:00  Opposition report.
+        16  04:00  Preparations, Exhibition.
+
+Total:     384:00
