@@ -138,6 +138,9 @@
 	10  09:00 Report
 	11  10:00 Report
 	12  14:00 Report
+
+----Week18
+	16  05:00 preparing and going to exhibition
 	
 
 Total:     314:30
