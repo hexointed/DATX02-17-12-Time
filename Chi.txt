@@ -134,5 +134,11 @@ Date        Time   Message
         10  07:30  Writing on the Report
         11  07:30  Writing on the Report
         12  12:30  Writing on the Report
-
+----Week18
+        15  01:30  Prepare for exhibition
+        16  03:30  Prepare for exhibition and exhibition
+        17  03:15  Reading DAT-17-10 report (thoroughly)
+        18  06:15  Reading DAT-17-10 report (thoroughly) and writing opposition
+        19  05:00  Fixing opposition report
+        21  03:30  Fixing presentation
 Total:     360:00
