@@ -120,4 +120,4 @@ Date        Time   Message
         23  09:00 Meeting, attending presentations and working on the presentation.
         24  03:00 Presentation.
 
-Total:     387:40
+Total:     399:40
