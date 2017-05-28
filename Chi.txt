@@ -141,12 +141,12 @@ Date        Time   Message
         17  03:15  Reading DAT-17-10 report (thoroughly)
         18  06:15  Reading DAT-17-10 report (thoroughly) and writing opposition
         19  05:00  Fixing opposition report
-        21  03:30  Fixing presentation
+        21  03:30  Fixing final presentation
 
 ----Week19
-        22  07:30  Fixing presentation and Practice
+        22  07:30  Fixing final  presentation and Practice
         23  01:00  Meeting wiht supervisor.
-            10:30  Practice presentation and watching other groups presentation
-        24  06:00  Early practice and Presentation.
+            10:30  Practice final presentation and watching other groups presentations
+        24  06:00  Early practice and Final presentation.
 
 Total:     383:00
