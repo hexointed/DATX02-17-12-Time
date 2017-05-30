@@ -97,8 +97,8 @@ Date        Time   Message
         30  04:00  More square roots
 
 ----Week 16
-     05-30  04:00  Writing on report.
-        02  04:00  Writing on report.
+     05-01  04:00  Writing on report.
+       02  04:00  Writing on report.
         05  04:00  Meeting with facksprȧk, writing on report.
         07  04:00  Writing on report.
 
