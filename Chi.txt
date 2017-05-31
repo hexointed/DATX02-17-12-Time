@@ -151,7 +151,7 @@ Date        Time   Message
 
 ----Week20
         29  03:00  Going through our report.
-        30  05:00  Going through our report and read the other groups opposition.
+        30  05:00  Going through our report and read the other groups opposition on our report.
         31  12:00  Editing our report.
         
 Total:     408:00
