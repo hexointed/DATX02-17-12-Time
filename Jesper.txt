@@ -160,4 +160,4 @@ Date        Time   Message
         30  04:00  report
         31  04:00  report
 
-Total:     470:40
+Total:     416:40
