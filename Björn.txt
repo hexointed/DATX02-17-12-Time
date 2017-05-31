@@ -104,5 +104,26 @@ Date        Time   Message
 
 ----Week 16
      05-05  05:00  Meeting and writing on the report.
+        07  05:00  Writing on the theory.
 
-Total:     325:00
+----Week 17
+        08  06:20  Writing on the theory.
+        09  08:20  Writing on the report.
+        10  09:00  Writing on the report.
+        11  10:00  Writing on the report.
+        12  12:30  Writing on the report.
+
+----Week 18
+        16  02:30 Booth presentation.
+        18  04:00 Writing the opposition.
+        19  05:00 Writing the opposition.
+
+----Week 19
+        23  09:00 Meeting, attending presentations and working on the presentation.
+        24  03:00 Presentation.
+
+----Week 19
+        30  04:20 Working on the report.
+        31  08:00 Working on the report.
+
+Total:     399:40

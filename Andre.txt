@@ -1,4 +1,4 @@
-Date        Time   Message
+﻿Date        Time   Message
 ----Week 1
 2017-01-17  03:00  Lecture.
         17  01:30  First meeting with the group.
@@ -115,4 +115,41 @@ Date        Time   Message
         22  07:00  Project report with the group
         23  07:00  Project report with the group
 
-Total:     252:30
+----Week15
+        24  06:00  Coding with Chi
+        25  05:30  Språkunder and report
+        26  06:00  Going through the comments on the report from lib
+        27  02:30  Going through the comments on the report from lib
+        28  05:30  Report
+
+----Week16
+        02  06:00  Report
+        04  06:30  Report
+        05  00:30  Meeting with Fackspråket
+            06:00  Report
+            01:00  Meeting with supervisor.
+            03:30  Working with the poster
+        07  08:00  Working with the poster.
+
+----Week17
+        08  05:00 Working with poster and sending it to TT.
+	    02:00 Report
+	09  08:00 Installing texlive and report
+	10  09:00 Report
+	11  10:00 Report
+	12  14:00 Report
+
+----Week18
+	16  05:00 preparing and going to exhibition
+	17  03:00 Going through the report of group 10
+	18  07:00 Going through group 10 report and starting writing opposition
+	19  05:00 Writing opposition report
+
+----Week19
+        22  07:00 writing final presentation
+        23  01:00 Meeting with supervisor
+            12:00 Preparing for final presentation
+        24  06:30 Preparing final presentation and doing it
+	
+
+Total:     362:30

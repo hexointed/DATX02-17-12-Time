@@ -97,9 +97,28 @@ Date        Time   Message
         30  04:00  More square roots
 
 ----Week 16
-     05-30  04:00  Time travel.
-        02  04:00  Writing on report.
+     05-01  04:00  Writing on report.
+       02  04:00  Writing on report.
         05  04:00  Meeting with facksprȧk, writing on report.
         07  04:00  Writing on report.
 
-Total:     333:00
+----Week 17
+        08  10:00  Writing on report.
+        09  09:00  Writing on report.
+        10  08:00  Writing on report.
+        11  08:00  Writing on report.
+        12  08:00  Writing on report.
+
+----Week 18
+        15  04:00  Opposition report.
+        16  04:00  Preparations, Exhibition.
+        18  04:00  Opposition report.
+        19  04:00  Opposition report.
+        21  04:00  Final Presentation preparations
+
+----Week 19
+		22  04:00  Final Presentation preparations
+		23  08:00  Final Presentation preparations
+		24  04:00  Final Presentation
+
+Total:     412:00
