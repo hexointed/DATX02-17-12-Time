@@ -120,10 +120,11 @@ Date        Time   Message
         22  04:00  Final Presentation preparations
         23  08:00  Final Presentation preparations
         24  04:00  Final Presentation
+        25  08:00  Ray grouping
 
 ----Weex 20
         29  08:00  Revising report.
         30  08:00  Revising report.
-        31  08:00  Revising report.
+        31  10:00  Revising report.
 
-Total:     436:00
+Total:     446:00

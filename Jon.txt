@@ -134,4 +134,9 @@ Date        Time   Message
         24  04:00  did the presentation and opposition defense
         28  04:00  report writing
 
-Total:     432:10
+----Week 20
+        29  02:00  report final touches
+        30  03:00  report final touches
+        31  08:00  report final touches
+
+Total:     445:10
