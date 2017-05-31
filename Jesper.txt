@@ -130,25 +130,25 @@ Date        Time   Message
 
 ----Week 17
         08  08:00  report
-        09  08:00  report
+        09  05:00  report
         10  07:00  report
-        11  10:00  report
-        12  10:00  report
+        11  05:00  report
+        12  05:00  report
         13  05:00  read through the report and looked at things we could improve
-        14  07:00  opposiotion read-through and taking notes
+        14  03:00  opposiotion read-through and taking notes
 
 ----Week 18
-        15  08:00  prepared the software shader for the exhibition
-        16  09:00  prepared the shader further and had the exhibition, further 
+        15  04:00  prepared the software shader for the exhibition
+        16  05:00  prepared the shader further and had the exhibition, further 
                    improved the shader afterwards
         17  04:00  exhibition
-        18  08:00  worked on the shader
+        18  04:00  worked on the shader
         19  04:00  presentation
-        20  10:00  presentation
-        21  10:00  presentation, opponering
+        20  04:00  presentation
+        21  06:00  presentation, opponering
 
 ----Week 19
-        22  12:00  presentation, opponering
+        22  5:00  presentation, opponering
         23  04:00  had presentation and opponering
         25  05:00  read through all critique and compared to own opinions
         26  04:00  report
@@ -156,7 +156,8 @@ Date        Time   Message
         28  04:00  report
 
 ----Week 20
-        29  10:00  report
-        30  10:00  report
+        29  04:00  report
+        30  04:00  report
+        31  04:00  report
 
 Total:     470:40
