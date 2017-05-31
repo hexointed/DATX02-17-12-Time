@@ -89,13 +89,13 @@ Date        Time   Message
                    gpu.
 
 ----Week 12
-        4   04:00  learn haskell, read articles on how modern games 
+        04  04:00  learn haskell, read articles on how modern games 
                    increase performance
-        5   03:00  discuss and look up how sqrt and pow will be used and 
+        05  03:00  discuss and look up how sqrt and pow will be used and 
                    implemented
-        6   05:00  test sqrt-aproximation in desmos and discuss which method 
+        06  05:00  test sqrt-aproximation in desmos and discuss which method 
                    will be used
-        7   06:00  starting to test how sqrt will be implemented in clash
+        07  06:00  starting to test how sqrt will be implemented in clash
 
 ----Week 13
         10  07:00  Looked up lookuptables and how we might implement sqrt
@@ -120,28 +120,28 @@ Date        Time   Message
         28  05:00  fixed camsetup
 
 ----Week 16
-        1   06:00  report
-        2   10:00  report
-        3   10:00  might be done with assembler
-        4   08:00  report
-        5   08:00  report + meeting
-        6   07:00  report
-        7   08:00  report
+        01  06:00  report
+        02  10:00  report
+        03  10:00  might be done with assembler
+        04  08:00  report
+        05  08:00  report + meeting
+        06  07:00  report
+        07  08:00  report
 
 ----Week 17
-		    8	08:00  report
-		    9	08:00  report
-		    10  07:00  report
-		    11  10:00  report
-		    12  10:00  report
-		    13	05:00  read through the report and looked at things we could improve
-		    14  07:00  opposiotion read-through and taking notes
+        08  08:00  report
+        09  08:00  report
+        10  07:00  report
+        11  10:00  report
+        12  10:00  report
+        13  05:00  read through the report and looked at things we could improve
+        14  07:00  opposiotion read-through and taking notes
 
 ----Week 18
-		    15	08:00  prepared the software shader for the exhibition
-		    16	09:00  prepared the shader further and had the exhibition, further 
-				   improved the shader afterwards
-    		17	04:00  exhibition
+        15  08:00  prepared the software shader for the exhibition
+        16  09:00  prepared the shader further and had the exhibition, further 
+                   improved the shader afterwards
+        17  04:00  exhibition
         18  08:00  worked on the shader
         19  04:00  presentation
         20  10:00  presentation
@@ -154,16 +154,9 @@ Date        Time   Message
         26  04:00  report
         27  04:00  report
         28  04:00  report
+
 ----Week 20
         29  10:00  report
         30  10:00  report
 
-
-
-
-
-
-        
-
-Total:     252:40
-
+Total:     470:40
