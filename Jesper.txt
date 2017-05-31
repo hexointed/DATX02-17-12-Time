@@ -113,13 +113,13 @@ Date        Time   Message
         22  02:00  read other reports
         23  10:00  written on our report
 
-----Week 14
+----Week 15
         25  08:30  Assembler
         26  07:00  tested assembler-methods
         27  05:00  tested assembler-methods
         28  05:00  fixed camsetup
 
-----Week 15
+----Week 16
         1   06:00  report
         2   10:00  report
         3   10:00  might be done with assembler
@@ -128,6 +128,42 @@ Date        Time   Message
         6   07:00  report
         7   08:00  report
 
+----Week 17
+		    8	08:00  report
+		    9	08:00  report
+		    10  07:00  report
+		    11  10:00  report
+		    12  10:00  report
+		    13	05:00  read through the report and looked at things we could improve
+		    14  07:00  opposiotion read-through and taking notes
+
+----Week 18
+		    15	08:00  prepared the software shader for the exhibition
+		    16	09:00  prepared the shader further and had the exhibition, further 
+				   improved the shader afterwards
+    		17	04:00  exhibition
+        18  08:00  worked on the shader
+        19  04:00  presentation
+        20  10:00  presentation
+        21  10:00  presentation, opponering
+
+----Week 19
+        22  12:00  presentation, opponering
+        23  04:00  had presentation and opponering
+        25  05:00  read through all critique and compared to own opinions
+        26  04:00  report
+        27  04:00  report
+        28  04:00  report
+----Week 20
+        29  10:00  report
+        30  10:00  report
+
+
+
+
+
+
         
 
 Total:     252:40
+0500446237
